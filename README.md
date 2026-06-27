@@ -63,16 +63,17 @@ Passionate about DevOps and continuously expanding my expertise through hands-on
 
 ## 🚀 Featured Projects
 
-** * DNS Audit Tool** | [View Repository](https://github.com/Ashvinidurai/dns-audit-tool)
+* DNS Audit Tool | [View Repository](https://github.com/Ashvinidurai/dns-audit-tool)
 
-** * CI/CD Pipeline for Static Website** | [View Repository](https://github.com/Ashvinidurai/ci-cd-pipeline)
+* CI/CD Pipeline for Static Website | [View Repository](https://github.com/Ashvinidurai/ci-cd-pipeline)
 
-** * Portfolio Website** | [View Repository](https://github.com/Ashvinidurai/portfolio-website)
+* Portfolio Website | [View Repository](https://github.com/Ashvinidurai/portfolio-website)
 
-** * Early Detection and Classification of Paddy Leaf Diseases using Deep Learning** | [View Repository](https://github.com/Ashvinidurai/paddy-leaf-disease-detection)
+* Paddy Leaf Diseases using Deep Learning | [View Repository](https://github.com/Ashvinidurai/paddy-leaf-disease-detection)
 
-**** * Task Reminder Application** | [View Repository](https://github.com/Ashvinidurai/task-reminder-app)
-**---
+* Task Reminder Application | [View Repository](https://github.com/Ashvinidurai/task-reminder-app)
+
+---
 
 ## 🌱 Currently Learning
 
