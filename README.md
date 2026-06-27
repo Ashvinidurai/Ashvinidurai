@@ -65,13 +65,11 @@ Passionate about DevOps and continuously expanding my expertise through hands-on
 
 * DNS Audit Tool | [View Repository](https://github.com/Ashvinidurai/dns-audit-tool)
 
-* CI/CD Pipeline for Static Website | [View Repository](https://github.com/Ashvinidurai/ci-cd-pipeline)
+* CI/CD Pipeline for Static Website | [View Repository](https://github.com/Ashvinidurai/Portfolio)
 
-* Portfolio Website | [View Repository](https://github.com/Ashvinidurai/portfolio-website)
+* Paddy Leaf Diseases using Deep Learning | [View Repository](https://github.com/Ashvinidurai/Find_PaddyLeaves_Diseases)
 
-* Paddy Leaf Diseases using Deep Learning | [View Repository](https://github.com/Ashvinidurai/paddy-leaf-disease-detection)
-
-* Task Reminder Application | [View Repository](https://github.com/Ashvinidurai/task-reminder-app)
+* Task Reminder Application | [View Repository](https://github.com/Ashvinidurai/TaskReminderApp)
 
 ---
 
