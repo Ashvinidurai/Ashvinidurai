@@ -63,11 +63,9 @@ Passionate about DevOps and continuously expanding my expertise through hands-on
 
 ## 🚀 Featured Projects
 
-### 🔹 DNS Audit Tool | [Repository](https://github.com/Ashvinidurai/dns-audit-tool)
-
-### 🔹 CI/CD Pipeline for Static Website | [Repository](https://github.com/Ashvinidurai/ci-cd-pipeline)
-
-### 🔹 Portfolio Website | [Repository](https://github.com/Ashvinidurai/portfolio-website)
+- **DNS Audit Tool** | [Repository](https://github.com/Ashvinidurai/dns-audit-tool)
+- **CI/CD Pipeline for Static Website** | [Repository](https://github.com/Ashvinidurai/ci-cd-pipeline)
+- **Portfolio Website** | [Repository](https://github.com/Ashvinidurai/portfolio-website)
 
 ---
 
