@@ -82,6 +82,7 @@ Passionate about DevOps and continuously expanding my expertise through hands-on
 * Kubernetes
 * Terraform
 * Advanced AWS Services
+* VMWare
 
 ---
 
