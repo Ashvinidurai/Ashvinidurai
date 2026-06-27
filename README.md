@@ -71,8 +71,8 @@ Passionate about DevOps and continuously expanding my expertise through hands-on
 
 ** * Early Detection and Classification of Paddy Leaf Diseases using Deep Learning** | [View Repository](https://github.com/Ashvinidurai/paddy-leaf-disease-detection)
 
-** * Task Reminder Application** | [View Repository](https://github.com/Ashvinidurai/task-reminder-app)
----
+**** * Task Reminder Application** | [View Repository](https://github.com/Ashvinidurai/task-reminder-app)
+**---
 
 ## 🌱 Currently Learning
 
