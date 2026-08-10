@@ -117,6 +117,10 @@ I'm interested in opportunities related to:
 ## 🖥️ Virtualization
 
 * VMware Workstation
+* Virtual Machine Management (CPU, RAM allocation)
+* Storage Management (Virtual Disks, Datastores)
+* Disk Management (Provisioning, Expansion, Snapshots)
+* Network Management (NAT, Bridged, Host-only networking)
 
 ---
 
