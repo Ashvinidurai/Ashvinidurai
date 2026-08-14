@@ -57,35 +57,65 @@ Alongside my professional experience, I am developing my **DevOps and Cloud Infr
 
 ### 🐧 Linux & System Administration
 
-`Linux` `Ubuntu` `CentOS` `Rocky Linux` `AlmaLinux` `Windows Server`
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=flat&logo=rockylinux&logoColor=white)
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=flat&logo=almalinux&logoColor=white)
 
-`Server Administration` `Server Monitoring` `Troubleshooting`
+**Administration:** Server Monitoring • Troubleshooting • User & Permission Management • SSH • systemd • Cron • Logrotate • Bash Scripting
 
-`User Management` `Permissions` `SSH` `systemd` `Cron` `Logrotate`
+---
 
-### ☁️ AWS Cloud
+### ☁️ Cloud & Infrastructure
 
-`EC2` `VPC` `S3` `Route 53` `IAM` `Security Groups`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
+
+**AWS:** EC2 • VPC • S3 • Route 53 • IAM • Security Groups
+
+**Infrastructure:** Server Configuration • Firewall Management • Performance Monitoring • Production Support
+
+---
 
 ### 🌐 DNS & Email Infrastructure
 
-`DNS Management` `A Records` `MX Records` `CNAME`
+**DNS:** A • MX • CNAME • TXT • SPF • DKIM • DMARC • NS • WHOIS
 
-`TXT` `SPF` `DKIM` `DMARC` `NS`
+**Email Infrastructure:** PowerMTA • Email Traffic Monitoring • DNS Authentication
 
-`WHOIS` `Email Infrastructure` `PowerMTA`
+---
 
 ### 🔧 DevOps & Automation
 
-`Git` `GitHub` `Docker` `Jenkins` `CI/CD`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-`Bash` `Python` `Terraform` `Kubernetes`
+**Tools:** Git • GitHub • Docker • Jenkins • CI/CD • Terraform • Kubernetes
+
+**Scripting:** Bash • Python
+
+---
 
 ### 🖥️ Virtualization
 
-`VMware Workstation`
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
-Virtual machine configuration, resource allocation, storage management, snapshots, and network configuration.
+VMware Workstation • Virtual Machine Configuration • Storage Management • Networking
+
+---
+
+### 💻 Additional Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Database & Monitoring:** MySQL Monitoring • Server Health Monitoring
 
 ---
 
