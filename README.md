@@ -246,7 +246,7 @@ A personal portfolio website created to showcase my technical skills, projects, 
 
 # 📜 Certifications
 
-- **Cisco CCNA v7**
+- **IPv4 & IPv6 Networking | Routing & Switching | Network Security | Network Troubleshooting** — Cisco CCNA v7
 - **Basic Concepts of DevOps** — GUVI | HCL Technologies
 - **DevOps Certification** — Naan Mudhalvan Academy
 
