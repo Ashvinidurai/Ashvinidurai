@@ -185,25 +185,6 @@ A hands-on DevOps project demonstrating automated build and deployment workflows
 
 ---
 
-## 📱 Task Reminder Application
-
-A mobile application developed to help users manage daily tasks, events, and reminders.
-
-### Key Features
-
-- Task creation and management
-- Daily reminder functionality
-- Simple and user-friendly interface
-- Android application development
-
-### Technologies
-
-`Android Studio` `Java` `XML` `Android`
-
-🔗 **View Project:** https://github.com/Ashvinidurai/task-reminder-app
-
----
-
 ## 🌾 Paddy Leaf Disease Detection using CNN
 
 A machine-learning project focused on detecting paddy leaf diseases using image classification and Convolutional Neural Networks.
@@ -219,7 +200,28 @@ A machine-learning project focused on detecting paddy leaf diseases using image 
 
 `Python` `CNN` `Machine Learning` `Computer Vision`
 
-🔗 **View Project:** https://github.com/Ashvinidurai/paddy-leaf-disease-detection
+🔗 **View Project:** https://github.com/Ashvinidurai/Find_PaddyLeaves_Diseases
+
+---
+
+---
+
+## 📱 Task Reminder Application
+
+A mobile application developed to help users manage daily tasks, events, and reminders.
+
+### Key Features
+
+- Task creation and management
+- Daily reminder functionality
+- Simple and user-friendly interface
+- Android application development
+
+### Technologies
+
+`Android Studio` `Java` `XML` `Android`
+
+🔗 **View Project:** https://github.com/Ashvinidurai/TaskReminderApp
 
 ---
 
@@ -238,7 +240,7 @@ A personal portfolio website created to showcase my technical skills, projects, 
 
 `HTML` `CSS` `JavaScript` `Git` `GitHub` `Vercel`
 
-🔗 **View Project:** https://github.com/Ashvinidurai/portfolio-website
+🔗 **View Project:** https://github.com/Ashvinidurai/Portfolio
 
 ---
 
