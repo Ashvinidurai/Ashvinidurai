@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ashvini A
 
-### Linux Administrator | AWS Cloud | DevOps Enthusiast | Infrastructure Support
+### Linux Server Administrator | AWS Cloud | Server & Cloud Infrastructure | Technical Support | DevOps Enthusiast
 
 <p align="left">
   <a href="https://github.com/Ashvinidurai">
@@ -16,208 +16,207 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an **Associate Server Administrator with 2 years of hands-on experience** in Linux server administration, DNS management, AWS cloud services, production support, and infrastructure troubleshooting.
+I'm a **Linux Server Administrator with 2 years of hands-on experience** in Linux server administration, AWS cloud infrastructure, DNS and email infrastructure, server monitoring, security, and production support.
 
-I have practical experience working with Linux servers, DNS and email infrastructure, AWS services, server monitoring, and technical support.
+My professional experience includes managing Linux environments, troubleshooting server issues, handling client support tickets and chat-based technical support, managing DNS configurations, monitoring production infrastructure, and supporting cloud environments.
 
-I'm also building my DevOps skills through hands-on projects involving **Git, GitHub, Docker, Jenkins, Bash scripting, Python, Terraform, and Kubernetes**.
+I have hands-on experience with **AWS EC2, VPC, S3, Route 53, IAM, Security Groups, Linux, DNS, Bash scripting, MySQL monitoring, firewall management, and server health monitoring**.
 
-I'm interested in opportunities related to:
-
-* Linux System Administration
-* Linux Server Administration
-* Cloud Infrastructure
-* AWS Cloud
-* DevOps
-* Infrastructure Support
-* Server Support
-* Technical Support
+Alongside my professional experience, I am developing my **DevOps and Cloud Infrastructure** skills through practical projects involving **Git, GitHub, Docker, Jenkins, CI/CD, Terraform, Kubernetes, and automation**.
 
 ---
 
 ## 🧑‍💼 Professional Experience
 
 ### Associate Server Administrator
-
 **Vintorix Private Limited**
 
-* Linux server administration and production support
-* Managed Linux environments including CentOS, Rocky Linux, and AlmaLinux
-* Worked with AWS services including EC2, VPC, S3, Route 53, IAM, and Security Groups
-* Managed DNS records including A, MX, TXT, SPF, and DKIM
-* Supported DNS and email infrastructure
-* Monitored production systems and handled technical support tickets
-* Worked with MySQL monitoring and server troubleshooting
-* Administered Windows Active Directory
-* Supported Linux and Windows environments
+- Managed Linux servers across **CentOS, Rocky Linux, and AlmaLinux** environments.
+- Supported AWS infrastructure including **EC2, VPC, S3, Route 53, IAM, and Security Groups**.
+- Configured and maintained server firewall rules for infrastructure security.
+- Monitored server health, performance, email traffic, and production infrastructure.
+- Managed Linux users, permissions, and access controls.
+- Performed MySQL monitoring to identify issues and help prevent IP blacklisting.
+- Supported email infrastructure and PowerMTA environments.
+- Handled production support and troubleshooting for server and infrastructure issues.
+
+### Associate Lead Engineer
+**Vintorix Private Limited**
+
+- Managed client-domain DNS records including **A, MX, CNAME, TXT, SPF, DKIM, DMARC, and NS**.
+- Handled client support tickets and chat-based technical support.
+- Troubleshot server, DNS, domain, and email-related issues.
+- Supported Linux and Windows server environments.
+- Assisted with server monitoring, maintenance, and infrastructure troubleshooting.
 
 ---
 
 # 🛠️ Technical Skills
 
-## 🐧 Operating Systems
+### 🐧 Linux & System Administration
 
-* Linux
-* Ubuntu
-* CentOS
-* Rocky Linux
-* AlmaLinux
-* Windows Server
+`Linux` `Ubuntu` `CentOS` `Rocky Linux` `AlmaLinux` `Windows Server`
 
-## 🖥️ Linux & System Administration
+`Server Administration` `Server Monitoring` `Troubleshooting`
 
-* Linux Server Administration
-* Server Monitoring
-* System Troubleshooting
-* Performance Monitoring
-* User & Permission Management
-* SSH
-* systemd
-* Cron
-* Logrotate
-* Bash Scripting
+`User Management` `Permissions` `SSH` `systemd` `Cron` `Logrotate`
 
-## ☁️ AWS Cloud
+### ☁️ AWS Cloud
 
-* Amazon EC2
-* Amazon VPC
-* Amazon S3
-* Amazon Route 53
-* AWS IAM
-* Security Groups
+`EC2` `VPC` `S3` `Route 53` `IAM` `Security Groups`
 
-## 🌐 Networking & DNS
+### 🌐 DNS & Email Infrastructure
 
-* DNS Management
-* A Records
-* MX Records
-* TXT Records
-* SPF
-* DKIM
-* DMARC
-* Nameserver Management
-* WHOIS
-* Email Infrastructure
+`DNS Management` `A Records` `MX Records` `CNAME`
 
-## 🔧 DevOps & Automation
+`TXT` `SPF` `DKIM` `DMARC` `NS`
 
-* Git
-* GitHub
-* Docker
-* Docker Compose
-* Jenkins
-* Bash
-* Python
-* Terraform
-* Kubernetes
-* CI/CD
+`WHOIS` `Email Infrastructure` `PowerMTA`
 
-## 🖥️ Virtualization
+### 🔧 DevOps & Automation
 
-* VMware Workstation
-* Virtual Machine Management (CPU, RAM allocation)
-* Storage Management (Virtual Disks, Datastores)
-* Disk Management (Provisioning, Expansion, Snapshots)
-* Network Management (NAT, Bridged, Host-only networking)
+`Git` `GitHub` `Docker` `Jenkins` `CI/CD`
+
+`Bash` `Python` `Terraform` `Kubernetes`
+
+### 🖥️ Virtualization
+
+`VMware Workstation`
+
+Virtual machine configuration, resource allocation, storage management, snapshots, and network configuration.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🐧 Linux Server Health Monitor
+## 🐧 Linux Server Health Monitor & Automation
 
-A practical Linux server administration and monitoring project built using **Ubuntu Linux running on VMware Workstation**.
-
-### Key Features
-
-* CPU utilization monitoring
-* Memory utilization monitoring
-* Disk utilization monitoring
-* SSH service monitoring
-* Docker service monitoring
-* Nginx service monitoring
-* Overall server health status
-* Color-coded health indicators
-* Automated health reports
-* Cron-based scheduled execution
-* Logrotate-based log management
-* Compressed historical logs
-
-### Technologies
-
-`Ubuntu` `Linux` `Bash` `VMware Workstation` `systemd` `Cron` `Logrotate` `Git` `GitHub`
-
-🔗 **[View Project →](https://github.com/Ashvinidurai/linux-server-health-monitor)**
-
----
-
-## 🌐 DNS Audit Tool
-
-A DNS auditing application designed to validate DNS records and email authentication configurations.
+A Bash-based Linux server monitoring project designed to automate routine server health checks and generate structured health reports.
 
 ### Key Features
 
-* A Record validation
-* MX Record validation
-* SPF verification
-* DKIM verification
-* DMARC verification
-* Nameserver validation
-* WHOIS lookup
-* Web-based interface
-* Docker container support
+- CPU, memory, and disk monitoring
+- Linux service status monitoring
+- SSH, Docker, and Nginx checks
+- Overall server health evaluation
+- Automated health report generation
+- Cron-based scheduled execution
+- Log management using Logrotate
+- Historical log rotation and compression
 
 ### Technologies
 
-`Linux` `Bash` `Python` `Flask` `Docker` `Git` `DNS` `WHOIS`
+`Ubuntu` `Linux` `Bash` `VMware` `systemd` `Cron` `Logrotate` `Git` `GitHub`
 
-🔗 **[View Project →](https://github.com/Ashvinidurai/DNS-Audit-Tool)**
+🔗 **View Project:** https://github.com/Ashvinidurai/linux-server-health-monitor
 
 ---
 
-## 🔄 CI/CD Static Website
+## 🌐 Dockerized DNS Audit & Monitoring Tool
 
-A hands-on CI/CD project demonstrating automated website deployment using GitHub, Jenkins, Docker, and Vercel.
+A DNS auditing and monitoring tool designed to validate domain DNS records and email authentication configurations.
+
+### Key Features
+
+- A, MX, SPF, DKIM, and DMARC validation
+- Nameserver and WHOIS checks
+- DNS configuration auditing
+- Web-based interface
+- Docker containerization
+- Automated DNS verification
 
 ### Technologies
 
-`GitHub` `Jenkins` `Docker` `CI/CD` `Vercel`
+`Linux` `Bash` `Python` `Flask` `Docker` `DNS` `WHOIS` `Git` `GitHub`
 
-🔗 **[View Project →](https://github.com/Ashvinidurai/CI-CD-Static-Website)**
+🔗 **View Project:** https://github.com/Ashvinidurai/DNS-Audit-Tool
 
 ---
 
-## 🌾 Paddy Leaf Disease Detection
+## 🔄 CI/CD Pipeline for Static Website Deployment
 
-A machine-learning project focused on detecting diseases in paddy leaves using image classification techniques.
+A hands-on DevOps project demonstrating automated build and deployment workflows for a static website.
+
+### Key Features
+
+- GitHub-based source control
+- Jenkins CI/CD pipeline
+- Docker containerization
+- Automated deployment workflow
+- Static website deployment
 
 ### Technologies
 
-`Python` `Machine Learning` `CNN` `Computer Vision`
+`Git` `GitHub` `Jenkins` `Docker` `CI/CD` `Vercel`
 
-🔗 **[View Project →](https://github.com/Ashvinidurai/paddy-leaf-disease-detection)**
+🔗 **View Project:** https://github.com/Ashvinidurai/CI-CD-Static-Website
 
 ---
 
 ## 📱 Task Reminder Application
 
-An Android application developed to help users create and manage daily tasks and reminders.
+A mobile application developed to help users manage daily tasks, events, and reminders.
+
+### Key Features
+
+- Task creation and management
+- Daily reminder functionality
+- Simple and user-friendly interface
+- Android application development
 
 ### Technologies
 
-`Android Studio` `Java` `Android`
+`Android Studio` `Java` `XML` `Android`
 
-🔗 **[View Project →](https://github.com/Ashvinidurai/task-reminder-app)**
+🔗 **View Project:** https://github.com/Ashvinidurai/task-reminder-app
+
+---
+
+## 🌾 Paddy Leaf Disease Detection using CNN
+
+A machine-learning project focused on detecting paddy leaf diseases using image classification and Convolutional Neural Networks.
+
+### Key Features
+
+- Image preprocessing
+- Image classification
+- CNN-based disease detection
+- Model training and evaluation
+
+### Technologies
+
+`Python` `CNN` `Machine Learning` `Computer Vision`
+
+🔗 **View Project:** https://github.com/Ashvinidurai/paddy-leaf-disease-detection
+
+---
+
+## 🌐 Personal Developer Portfolio Website
+
+A personal portfolio website created to showcase my technical skills, projects, experience, and professional profile.
+
+### Key Features
+
+- Responsive portfolio design
+- Project showcase
+- Skills and experience section
+- Professional contact section
+
+### Technologies
+
+`HTML` `CSS` `JavaScript` `Git` `GitHub` `Vercel`
+
+🔗 **View Project:** https://github.com/Ashvinidurai/portfolio-website
 
 ---
 
 # 📜 Certifications
 
-* **Cisco CCNA v7**
-* **Basic Concepts of DevOps** — GUVI | HCL Technologies
-* **DevOps Certification** — Naan Mudhalvan Academy
+- **Cisco CCNA v7**
+- **Basic Concepts of DevOps** — GUVI | HCL Technologies
+- **DevOps Certification** — Naan Mudhalvan Academy
 
 ---
 
@@ -225,81 +224,27 @@ An Android application developed to help users create and manage daily tasks and
 
 I'm continuously improving my skills in:
 
-* 🐳 Docker & Docker Compose
-* 🔄 Jenkins & CI/CD
-* ☸️ Kubernetes
-* 🏗️ Terraform
-* ☁️ Advanced AWS Services
-* 🐧 Linux System Administration
-* 🖥️ VMware & Virtualization
-* 📊 Infrastructure Monitoring
-* ⚙️ Automation with Bash & Python
+- 🐧 Linux System Administration
+- ☁️ AWS Cloud & Infrastructure
+- 🐳 Docker & Containerization
+- 🔄 Jenkins & CI/CD
+- ☸️ Kubernetes
+- 🏗️ Terraform
+- ⚙️ Bash & Infrastructure Automation
+- 📊 Server & Infrastructure Monitoring
 
 ---
 
-# 🎯 Career Focus
+# 🎯 Professional Focus
 
-I'm currently interested in opportunities related to:
+I'm interested in opportunities related to:
 
 ```text
-Linux System Administrator
-Linux Server Administrator
-Cloud Infrastructure Engineer
+Linux System Administration
+Linux Server Administration
+Cloud Infrastructure
 AWS Cloud Support
-DevOps Engineer
-Infrastructure Support Engineer
-Server Support Engineer
-Technical Support Engineer
-```
-
----
-
-# 📊 What I Enjoy Working On
-
-```text
-Linux Administration
-       ↓
-Server Monitoring
-       ↓
-AWS Cloud Infrastructure
-       ↓
-Automation
-       ↓
-Docker & CI/CD
-       ↓
 DevOps
-```
-
-I enjoy learning through **hands-on infrastructure projects** and building practical solutions rather than only learning theory.
-
----
-
-# 📂 Project Highlights
-
-| Project                         | Main Technologies                    |
-| ------------------------------- | ------------------------------------ |
-| 🐧 Linux Server Health Monitor  | Linux, Bash, VMware, Cron, Logrotate |
-| 🌐 DNS Audit Tool               | Bash, Python, Flask, Docker, DNS     |
-| 🔄 CI/CD Static Website         | GitHub, Jenkins, Docker, CI/CD       |
-| 🌾 Paddy Leaf Disease Detection | Python, CNN, Machine Learning        |
-| 📱 Task Reminder Application    | Android Studio, Java                 |
-
----
-
-# 📫 Connect With Me
-
-📧 **Email:** [ashvinidurai600@gmail.com](mailto:ashvinidurai600@gmail.com)
-
-🌐 **Portfolio:** [ashvinidurai.vercel.app](https://ashvinidurai.vercel.app/)
-
-💼 **LinkedIn:** [linkedin.com/in/ashvini10](https://www.linkedin.com/in/ashvini10/)
-
-💻 **GitHub:** [github.com/Ashvinidurai](https://github.com/Ashvinidurai)
-
----
-
-## ⭐ Thanks for visiting my profile!
-
-I'm always interested in learning, building, and improving my skills in **Linux, Cloud, Infrastructure, and DevOps**.
-
-If you're interested in connecting or discussing opportunities, feel free to reach out.
+Infrastructure Support
+Server Support
+Technical Support
