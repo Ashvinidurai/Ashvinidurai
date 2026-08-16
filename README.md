@@ -73,7 +73,7 @@ Alongside my professional experience, I am developing my **DevOps and Cloud Infr
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
 
-**AWS:** EC2 • VPC • S3 • Route 53 • IAM • Security Groups
+**AWS:** EC2 • VPC • S3 • Route 53 • IAM • Security Groups • Amazon WorkMail
 
 **Infrastructure:** Server Configuration • Firewall Management • Performance Monitoring • Production Support
 
